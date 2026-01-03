@@ -10,7 +10,7 @@
 2. ``ILIKE`` is too basic, but I am unaware of lemmatization/stemming techniques to use for the Arabic language in PostgreSQL.
 3. Multithreading to achieve bulk ingestion in parser.
 4. Handle document de-duplication in parser not in database initialization.
-5. Reduce the overall complexity of the data retrieval logic in the ``GET`` endpoint
+5. Reduce the overall complexity of the data retrieval logic in the ``GET`` endpoint.
 
 ## What I would have changed in the task definition
 
