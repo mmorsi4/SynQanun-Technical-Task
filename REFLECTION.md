@@ -14,4 +14,4 @@
 
 ## What I would have changed in the task definition
 
-I would need to change fact that the database needs to strictly be three tables.
+I would need to change the fact that the database needs to strictly be three tables.
