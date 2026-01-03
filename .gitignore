@@ -1,2 +1,4 @@
 __pycache__
 .venv
+./app/testmain.py
+.gitignore
